@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Bem-vindo ao meu perfil! Sou Adriano da Silva Costa, entusiasta da programação. Vamos compartilhar ideias e código! 🚀
 
-<!--
-**Adriano-da-silva-costa/Adriano-da-silva-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png">
+  <img align="center" alt="Js" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/541/541509.png">
+  <img align="center" alt="HTML" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/5486/5486380.png">
+  <img align="center" alt="CSS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/5486/5486371.png">
+</div>
 
-Here are some ideas to get you started:
+  ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.instagram.com/adriano._.s.c/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:adrianos123456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+</div>
