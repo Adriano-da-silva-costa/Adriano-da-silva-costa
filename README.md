@@ -13,3 +13,16 @@
   <a href="https://www.instagram.com/adriano._.s.c/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:adrianos123456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
+
+  ##
+
+  ### 🚀 Projetos Pessoais de Programação e TI
+
+- 💻 Desenvolvimento de pequenos projetos em Python e Node.js.
+- 🌐 Criação de páginas web simples com HTML e CSS para aprimorar habilidades front-end.
+- 🎯 Foco constante em aprender e aplicar conceitos sólidos de programação.
+
+### 📚 Estudos Independentes
+
+- 📘 Autoestudo contínuo em programação e algoritmos para aprimorar a lógica.
+- 🎓 Participação ativa em cursos online práticos, buscando conhecimento aprofundado.
