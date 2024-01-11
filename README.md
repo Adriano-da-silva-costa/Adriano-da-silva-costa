@@ -16,7 +16,7 @@
 
   ##
 
-  ### 🚀 Projetos Pessoais de Programação e TI
+  ### 🚀 Minhas Incursões em Programação e TI
 
 - 💻 Desenvolvimento de pequenos projetos em Python e Node.js.
 - 🌐 Criação de páginas web simples com HTML e CSS para aprimorar habilidades front-end.
